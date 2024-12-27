@@ -27,5 +27,6 @@ The program validates the inputs and performs the operation.
 The result is displayed, or an error message is shown for invalid inputs or operations.
 This project can be extended further by adding more operations, a graphical user interface, or advanced mathematical functions.
 
-![image](https://github.com/user-attachments/assets/8b1d9ca4-638f-4d07-9457-cbcb95f201df)
+![image](https://github.com/user-attachments/assets/ce0bf228-f6b1-49de-88d9-de0bde15d550)
+
 
